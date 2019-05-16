@@ -42,7 +42,7 @@ end
  #     phrase
  #   end
  # end
-end
+#end
 
 def selective_tweet_shortener(tweet)
   if tweet.chars.length > 140  
